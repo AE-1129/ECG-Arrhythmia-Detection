@@ -24,8 +24,3 @@ This project is aimed at classifying ECG signals into two categories: **normal**
    - **MaxPooling** layers are used to reduce dimensionality.
    - Finally, a **fully connected (dense)** layer is used to make the binary classification (normal or arrhythmia).
 
-## Setup
-
-### Prerequisites
-To run this project, you need Python 3.x and several dependencies. You can install the required packages by using the following commands:
-
